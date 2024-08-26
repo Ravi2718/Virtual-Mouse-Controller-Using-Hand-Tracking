@@ -83,18 +83,4 @@ Feel free to fork the repository and make improvements. If you encounter issues 
 - [PyAutoGUI](https://pyautogui.readthedocs.io/) for mouse control.
 - [OpenCV](https://opencv.org/) for image processing.
 
-```
 
-### Explanation of Sections:
-
-- **Overview**: Summarizes the purpose and functionality of the project.
-- **Features**: Highlights the main features of the application.
-- **Requirements**: Lists the necessary software and libraries.
-- **Installation**: Provides step-by-step instructions for setting up the project.
-- **Usage**: Explains how to run and use the application.
-- **Troubleshooting**: Offers solutions for common issues.
-- **Contributing**: Encourages collaboration and explains how to contribute.
-- **License**: Specifies the licensing information for the project.
-- **Acknowledgments**: Credits to the libraries and tools used in the project.
-
-Feel free to adjust the content according to your specific needs and repository details.
